@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/5590
     wikipedia: http://en.wikipedia.org/wiki/W._B._Maxwell
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/39515#Mrs.-ThompsonA-Novel
 gutenberg_issued: '2012-04-23'
 gutenberg_type: Text
 identifiers:
